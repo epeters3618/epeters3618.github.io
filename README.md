@@ -1,2 +1,2 @@
-# epeters3618.github.io
+# gag-initiative.github.io
 GitHub Pages
